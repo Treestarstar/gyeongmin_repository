@@ -1,3 +1,3 @@
 # gyeongmin_repository
 
-* 4 blocks falling down
+* 4 blocks are falling down
